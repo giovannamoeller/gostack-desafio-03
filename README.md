@@ -5,7 +5,7 @@
 <br><br>
 Criação de uma aplicação mobile com <b>React Native</b> que permite, através de uma listagem de dados, <b>curtir</b> um repositório da <b>API</b> criada no desafio 01, back-end com NodeJS.
 <br>
-A correção desse desafio foi feita a partir de testes automatizados. Nota: 10,0.
+A correção desse desafio foi feita a partir de testes automatizados.
 <br><br>
 <b>Tecnologias utilizadas:</b>
 <br>
