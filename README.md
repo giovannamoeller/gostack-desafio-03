@@ -10,5 +10,5 @@ A correção desse desafio foi feita a partir de testes automatizados. Nota: 10,
 <b>Tecnologias utilizadas:</b>
 <br>
 React Native integrado com API.
-<br>
+<br><br>
 <a href="https://ibb.co/BjBPT9G"><img src="https://i.ibb.co/BjBPT9G/Captura-de-Tela-2020-08-21-a-s-13-02-56.png" alt="Captura-de-Tela-2020-08-21-a-s-13-02-56" border="0"></a>
