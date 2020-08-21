@@ -76,14 +76,12 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#7159c1",
-    justifyContent: 'center'
   },
   repositoryContainer: {
-    marginBottom: 30,
+    marginBottom: 15,
     marginHorizontal: 15,
     backgroundColor: "#fff",
     padding: 20,
-    borderRadius: 8
   },
   repository: {
     fontSize: 32,
@@ -116,7 +114,6 @@ const styles = StyleSheet.create({
     marginTop: 10,
   },
   buttonText: {
-    borderRadius: 8,
     fontSize: 14,
     fontWeight: "bold",
     marginRight: 10,
